@@ -58,7 +58,7 @@
 <p>Phone number</p>
 </li>
 <li>
-<p>Address, State, Province, ZIP/Postal code, City</p>
+<p>Address, State, Province, ZIP/Postal code</p>
 </li>
 <li>
 <p>Usage Data</p>
